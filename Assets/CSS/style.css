@@ -1,0 +1,77 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    font-size: 18px;
+  }
+  
+  textarea{
+    background: transparent;
+    border: none;
+    resize: none;
+    color: black;
+    border-left: 2px solid rgb(255, 255, 255);
+    padding: 2px;
+  }
+  
+  .heroBanner {
+    text-align: center;
+    background: linear-gradient(90deg, rgba(63,94,251,1) 0%, rgba(166,70,252,1) 100%);
+    color: white;
+    border-radius: 0;
+    border-bottom: 15px solid rgb(255, 255, 255);
+  }
+  
+  h1 {
+      font-size: 20px;
+  }
+  
+h4 {
+    font-size: 15px;
+    text-align: center;
+}
+
+  .description{
+    white-space: pre-wrap;
+  }
+  
+  .time-block{
+    text-align: center;
+  }
+  
+  .row {
+    border-top: 2px solid white;;
+  }
+  
+  .hour {
+    background: linear-gradient(90deg, rgba(63,94,251,1) 0%, rgba(166,70,252,1) 100%);
+    color: #ffffff;
+    border: #ffffff;
+    align-items: center;
+
+  }
+  
+  /* Colors for past, present and future */
+  .past {
+    background-color: #d3d3d3;
+    color: black;
+  }
+  
+  .present {
+    background: linear-gradient(90deg, rgba(251,63,228,1) 0%, rgba(252,177,70,1) 100%);
+    color: black;
+  }
+  
+  .future {
+    background-color: rgb(14, 238, 167);
+    color: black
+  }
+  
+  .saveBtn {
+    background: linear-gradient(90deg, rgba(63,94,251,1) 0%, rgba(166,70,252,1) 100%);
+    color: white;
+  }
+  
+  .saveBtn i:hover {
+    font-size: 20px;
+    transition: all 0.3s ease-in-out;
+  }
+  
