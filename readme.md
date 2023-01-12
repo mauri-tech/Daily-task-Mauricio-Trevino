@@ -45,7 +45,10 @@ Bootstrap
 ## Author
 This application was developed by Mauricio Trevino as a project for Web Developer Bootcamp.
 
-# [Github Repository](https://github.com/mauri-tech)
+## Github 
+[Github](https://github.com/mauri-tech)
+[Github-Repo](https://github.com/mauri-tech/Daily-task-Mauricio-Trevino)
+
 
 
 ## Screenshots
